@@ -1,0 +1,26 @@
+[
+    {
+        "urlImg":"/assets/image/portf/calc_pwa.jpg",
+        "title":"Calculadora PWA",
+        "desc":"Uma calculadora feita em Javascript e bootstrap.",
+        "link":"https://calculadora-pwa.firebaseapp.com/"
+    },
+    {
+        "urlImg":"/assets/image/portf/tictactoe_pwa.jpg",
+        "title":"Tic Tac Toe PWA",
+        "desc":"Jogo que permite playes se desafiar remotamente.",
+        "link":"https://herokuhashgame.herokuapp.com/"
+    },
+    {
+        "urlImg":"/assets/image/portf/smithfit_site.jpg",
+        "title":"Site SmithFit",
+        "desc":"Criação de um site para a academia SmithFit.",
+        "link":"https://www.smithfit.com.br/"
+    },
+    {
+        "urlImg":"/assets/image/portf/isifid_site.jpg",
+        "title":"Site Isifid",
+        "desc":"Criação do site para empresa Isifid com base em PSD.",
+        "link":"https://wnotmatter.github.io/freelance-isifid/"
+    }
+]

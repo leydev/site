@@ -1,0 +1,22 @@
+[
+    {
+        "imgem": "/assets/art/website.svg",
+        "legen": "Criação de sites",
+        "desc": "Crio sites simples e avançados, templates para seu blog wordpress. Todos com responsividade e otimizados para google."
+    },
+    {
+        "imgem": "/assets/art/mobile.svg",
+        "legen": "Criação de web webapps",
+        "desc": "Desenvolvo aplicativos com tecnologia PWA. Permitindo que o mesmo app funcione em celulares e computadores."
+    },
+    {
+        "imgem": "/assets/art/network.svg",
+        "legen": "Configuração de redes",
+        "desc": "Realizo configuração de rede de computadores. Instalação de roteadores, servidores de arquivos, firewall e proxy."
+    },
+    {
+        "imgem": "/assets/art/computer.svg",
+        "legen": "Reparo de comutadores",
+        "desc": "Aplico manutenções preventivas e reativas em seu desktop e notebook. Também faço orçamentos para aprimoramento das máquinas."
+    }
+]
