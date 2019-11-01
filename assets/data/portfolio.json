@@ -15,12 +15,12 @@
         "urlImg":"/assets/image/portf/smithfit_site.jpg",
         "title":"Site SmithFit",
         "desc":"Criação de um site para a academia SmithFit.",
-        "link":"https://www.smithfit.com.br/"
+        "link":"https://leydev.github.io/smithfit/"
     },
     {
         "urlImg":"/assets/image/portf/isifid_site.jpg",
         "title":"Site Isifid",
         "desc":"Criação do site para empresa Isifid com base em PSD.",
-        "link":"https://wnotmatter.github.io/freelance-isifid/"
+        "link":"https://leydev.github.io/freelance-isifid/"
     }
 ]
