@@ -1,5 +1,11 @@
 [
     {
+        "urlImg":"/assets/image/portf/magmapro.jpg",
+        "title":"Magma pro",
+        "desc":"Aplicativo PWA para agendamento de visitas magma.",
+        "link":"http://pwa-magma.web.app/"
+    },
+    {
         "urlImg":"/assets/image/portf/calc_pwa.jpg",
         "title":"Calculadora PWA",
         "desc":"Uma calculadora feita em Javascript e bootstrap.",

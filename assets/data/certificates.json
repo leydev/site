@@ -1,5 +1,9 @@
 [
     {
+        "urlImg": "/assets/image/cert/certificado.jpg",
+        "title": "Manutenção e suporte em TI"
+    },
+    {
         "urlImg": "/assets/image/cert/hack_facebook.jpg",
         "title": "Estação hack facebook"
     },
